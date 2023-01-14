@@ -15,4 +15,5 @@ If you are on Linux, first git clone the file , then enter its folder and enter 
 
 sudo python3 Bomber.py
 
+
 If you are on Windows, first download the files , then double click on the .py file.
